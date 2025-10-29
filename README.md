@@ -1,5 +1,5 @@
 # CIS450-Project-2
-Files modified in xv6 to implement a simplified O(1) scheduler.
+This repository includes files modified in xv6 project to implement a simplified O(1) scheduler.
 
 Goal: Implement a simplified O(1) scheduler in xv6 using three FIFO queues:
 - FQ (First-time Queue): new processes start here with a short quantum (10 ms)
